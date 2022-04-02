@@ -1,3 +1,4 @@
+//swap previous and post to reverse linked list
 #include<iostream>
 using namespace std;
 class node
